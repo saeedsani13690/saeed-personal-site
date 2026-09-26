@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webnaro.ir/sitemap.xml
